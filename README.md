@@ -2,7 +2,7 @@
 ### Virtual and Augmented Reality 
 # P2: Project Milestone
 
-Read (UPDATE): [Assignment Instructions](https://docs.google.com/document/d/10haIk-vWfOI48PyhqAlYiqWCeNn-MRB0OG1s6akqwGA/edit?usp=sharing "Detailed Assignment Instructions")
+Read (UPDATE): [Assignment Instructions](https://docs.google.com/document/d/1vP6fj6B2SmH5aoUDLqYtNBG0c1L6OYJ9ZKJZFddpy04/edit?usp=sharing "Detailed Assignment Instructions")
 
 <hr>
 

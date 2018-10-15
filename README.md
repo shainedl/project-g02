@@ -8,9 +8,9 @@ Read: [Assignment Instructions](https://docs.google.com/document/d/1vP6fj6B2SmH5
 
 ### Group Name and Project Title:
 - [Insert your group name]
-- [Insert your projec title]
+- [Insert your project title]
 
-### Group Members (full name, Cornell email, GitHub handle):
+### Group Members:
 
 - [Insert your full name, Cornell email, GitHub handle]
 - [Insert your full name, Cornell email, GitHub handle]

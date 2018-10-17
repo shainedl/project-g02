@@ -7,12 +7,12 @@ Read: [Assignment Instructions](https://docs.google.com/document/d/1vP6fj6B2SmH5
 <hr>
 
 ### Group Name and Project Title:
-- [Insert your group name]
+- MTAR
 - [Insert your project title]
 
 ### Group Members:
 
-- [Insert your full name, Cornell email, GitHub handle]
+- Brett Leibowitz, bal246@cornell.edu, TonOfPrince
 - [Insert your full name, Cornell email, GitHub handle]
 - [Insert your full name, Cornell email, GitHub handle]
 
